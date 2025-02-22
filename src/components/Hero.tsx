@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container mx-auto px-6">
         <div className="max-w-4xl mx-auto text-center">
           <span className="text-sm uppercase tracking-widest animate-fade-in">Welcome to the future</span>
-          <h1 className="mt-6 text-4xl md:text-5xl font-bold leading-tight animate-fade-up">
+          <h1 className="mt-6 text-5xl md:text-7xl font-bold leading-tight animate-fade-up">
             Empower your business
             <span className="block mt-2">with our web solution</span>
           </h1>
